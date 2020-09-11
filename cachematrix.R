@@ -17,8 +17,6 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-makeCacheMatrix(matrix(1:9,3,3))
-
 #cacheSolve Function:
 
         #This function will calculate if the inverse of the matrix created in the 
